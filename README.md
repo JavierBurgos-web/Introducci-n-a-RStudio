@@ -6,8 +6,8 @@ El objetivo es conocer el ambiente del software estadististico llamado RStudio, 
 - Aún no disponible
 
 ## 📥 Instalación 
-La instalación se realiza desde 
-Así mismo en este mismo espacio hay un corto y concreto PDF del paso a paso.
+La instalación se realiza desde https://cran.r-project.org/bin/windows/base/
+En este mismo espacio hay un corto y concreto PDF del paso a paso.
 
 ## 🤝🏻 Contratación 
 Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu equipo o crees que puedo enseñarte algo; puedes enviarme un mensaje. 
