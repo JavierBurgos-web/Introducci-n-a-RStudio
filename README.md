@@ -9,6 +9,9 @@ El objetivo es conocer el ambiente del software estadististico llamado RStudio, 
 - **R**        https://cran.r-project.org/bin/windows/base/
 - **RStudio**  https://support--rstudio-com.netlify.app/products/rstudio/download/#download
 
+Si deasea puedes copiar el código y ejecutarlo en: 
+- **En linea** https://login.rstudio.cloud/login?redirect=%2F
+
 En este mismo espacio hay un corto y concreto PDF del paso a paso.
 
 ## 🤝🏻 Contratación 
