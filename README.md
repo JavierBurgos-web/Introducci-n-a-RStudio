@@ -18,6 +18,7 @@ Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu e
 
 ## ✍🏻 Autor
 **Javier Elohim Burgos Chaguezac**
+** [Javier Elohim Burgos Chaguezac](https://linktr.ee/ing.jburgos)**
 
 * [LinkedIn](https://www.linkedin.com/in/javierburgos-web/)
 * [Instagram](https://www.instagram.com/ing.jburgos/)
