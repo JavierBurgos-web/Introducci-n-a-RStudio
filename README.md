@@ -14,7 +14,7 @@ Si deasea puedes copiar el código y ejecutarlo en:
 
 ## 🤝🏻 Contratación 
 Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu equipo o crees que puedo enseñarte algo; puedes enviarme un mensaje. 
-📧  ing.burgoschaguezac@gmail.com
+ing.burgoschaguezac@gmail.com
 
 ## ✍🏻 Autor
 **[Javier Elohim Burgos Chaguezac](https://linktr.ee/ing.jburgos)**
