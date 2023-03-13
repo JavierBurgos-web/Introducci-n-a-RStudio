@@ -12,8 +12,6 @@ El objetivo es conocer el ambiente del software estadististico llamado RStudio, 
 Si deasea puedes copiar el código y ejecutarlo en: 
 - **En linea** https://login.rstudio.cloud/login?redirect=%2F
 
-En este mismo espacio hay un corto y concreto PDF del paso a paso.
-
 ## 🤝🏻 Contratación 
 Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu equipo o crees que puedo enseñarte algo; puedes enviarme un mensaje. 
 📧  ing.burgoschaguezac@gmail.com
