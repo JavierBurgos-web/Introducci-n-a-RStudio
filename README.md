@@ -17,12 +17,7 @@ Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu e
 📧  ing.burgoschaguezac@gmail.com
 
 ## ✍🏻 Autor
-**Javier Elohim Burgos Chaguezac**
-** [Javier Elohim Burgos Chaguezac](https://linktr.ee/ing.jburgos)**
-
-* [LinkedIn](https://www.linkedin.com/in/javierburgos-web/)
-* [Instagram](https://www.instagram.com/ing.jburgos/)
-* [Youtube](https://www.youtube.com/@ingjburgos888/featured)
+**[Javier Elohim Burgos Chaguezac](https://linktr.ee/ing.jburgos)**
 
 ## 📄 Licencia
 Libre acceso. ©️
